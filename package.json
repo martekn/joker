@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/martekn/joker#readme",
   "devDependencies": {
+    "eslint": "^8.56.0",
     "prettier": "^3.1.1"
   },
   "dependencies": {
