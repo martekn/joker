@@ -23,5 +23,8 @@
   "homepage": "https://github.com/martekn/joker#readme",
   "devDependencies": {
     "prettier": "^3.1.1"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.0"
   }
 }
