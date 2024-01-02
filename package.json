@@ -21,9 +21,6 @@
     "url": "https://github.com/martekn/joker/issues"
   },
   "homepage": "https://github.com/martekn/joker#readme",
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
-  },
   "devDependencies": {
     "prettier": "^3.1.1"
   }
